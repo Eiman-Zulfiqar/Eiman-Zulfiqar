@@ -12,11 +12,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@iemanzulfiqar05](https://medium.com/@iemanzulfiqar05)
 
-- 💬 Ask me about **Backend (Django), Python, Databases**
+- 💬 Ask me about how to market your skills.**
 
 - 📫 How to reach me **iemanzulfiqar05@gmail.com**
 
-- ⚡ Fun fact **Coding problems increases problem solving skills 👨‍💻**
+- ⚡ Fun fact **Coding problems increase problem solving skills 👨‍💻**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eiman-zulfiqar&label=Profile%20views&color=0e75b6&style=flat" alt="eiman-zulfiqar" /> </p>
 
