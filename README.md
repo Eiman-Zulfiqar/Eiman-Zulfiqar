@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **iemanzulfiqar05@gmail.com**
 
-- ⚡ Fun fact **I am funny :D**
+- ⚡ Fun fact **Coding problems increases problem solving skills 👨‍💻**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eiman-zulfiqar&label=Profile%20views&color=0e75b6&style=flat" alt="eiman-zulfiqar" /> </p>
 
