@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@iemanzulfiqar05](https://medium.com/@iemanzulfiqar05)
 
-- 💬 Ask me about how to market your skills.**
+- 💬 Ask me about **how to market your skills**
 
 - 📫 How to reach me **iemanzulfiqar05@gmail.com**
 
