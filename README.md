@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sign language recognition system**
 
-- 🌱 I’m currently learning **Machine learning Algorithms**
+- 🌱 I’m currently learning **Data engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/-django-developer-019b73233/](https://www.linkedin.com/in/-django-developer-019b73233/)
 
