@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data engineering**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/-django-developer-019b73233/](https://www.linkedin.com/in/-python-developer-019b73233/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/-python-developer-019b73233/](https://www.linkedin.com/in/-python-developer-019b73233/)
 
 - 📝 I regularly write articles on [https://medium.com/@iemanzulfiqar05](https://medium.com/@iemanzulfiqar05)
 
