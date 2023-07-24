@@ -8,10 +8,8 @@
 - 🌱 I’m currently **mastering python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/-python-developer-019b73233/](https://www.linkedin.com/in/-python-developer-019b73233/)
-
-- 📝 I regularly write articles on [https://medium.com/@iemanzulfiqar05](https://medium.com/@iemanzulfiqar05)
-
-- 💬 Ask me about **how to market your skills**
+  
+- 💬 Ask me about **branding your skills**
 
 - 📫 How to reach me **iemanzulfiqar05@gmail.com**
 
